@@ -1,4 +1,0 @@
-
-```scheme
-(define (+ a b)
-```
