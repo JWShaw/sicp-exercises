@@ -1,3 +1,5 @@
+# Exercise 1.3
+
 ```scheme
 (define (sum-of-squares a b)
   (+ (* a a) (* b b)))
