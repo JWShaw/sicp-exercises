@@ -92,4 +92,4 @@ Ackermann's Function:
 
 `(define (g n) (A 1 n))` defines the function $g(n) = 2^n$.
 
-`(define (h n) (A 2 n))` defines the function $h(n) = 0$ for $n = 0$ and 2 \uparrow \uparrow n$ for $n > 0$.
+`(define (h n) (A 2 n))` defines the function $h(n) = 0$ for $n = 0$ and $2 \uparrow \uparrow n$ for $n > 0$.
